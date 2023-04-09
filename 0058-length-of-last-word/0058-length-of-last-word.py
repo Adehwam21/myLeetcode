@@ -2,8 +2,10 @@ class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         cleaned = s.strip(" ")
         cleaned = [i for i in cleaned]
-        new = cleaned[::-1]
+        new = cleaned[::-1] # reversed the items in the list for easy looping
+        
         new1 =[]
+        
         for i in range(len(new)):
             if len(new[i]) == 1:
                 new1.append(new[i])
@@ -14,3 +16,4 @@ class Solution:
                 i+=1
 
         return (len(new1))
+    
