@@ -5,11 +5,5 @@ class Solution:
             remaining = target - nums[i]
             if remaining in seen:
                 return [i, seen[remaining]]
-            
             seen[value] = i
                     
-
-                
-
-
-        
