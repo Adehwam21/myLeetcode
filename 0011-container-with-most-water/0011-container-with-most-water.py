@@ -7,7 +7,7 @@ class Solution:
         
         while left <= (len(height)-1) and right >= 0:
             if height[left] <= height[right]:
-                area = height[left] * (left-right)
+                area = height[left] * (right-left)
                 all_area.append(area)
                 left += 1
                 
@@ -15,9 +15,5 @@ class Solution:
                 area = height[right] * (right-left)
                 all_area.append(area)
                 right -= 1
-        all_area = [abs(area) for area in all_area]
-        print(all_area)
         return max(all_area)
                 
-                
-        
