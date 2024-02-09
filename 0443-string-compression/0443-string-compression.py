@@ -1,5 +1,7 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
+        
+        # Note: Couldn't solve so i copied from solutions 
         i = 0
         res = 0
         while i < len(chars):
