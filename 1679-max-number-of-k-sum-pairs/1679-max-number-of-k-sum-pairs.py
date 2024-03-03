@@ -1,7 +1,6 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
         nums.sort()
-        
         left = 0
         right = len(nums)-1
         count = 0
@@ -16,4 +15,3 @@ class Solution:
             else:
                 left += 1
         return count
-        
