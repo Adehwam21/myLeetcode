@@ -1,7 +1,7 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         n = len(nums)-1
-        current_sum = sum(nums[:k])
+        current_sum = sum(nums[:k]) # get initial contigious sum
         max_sum = current_sum
         
         for i in range(n - k + 1):
