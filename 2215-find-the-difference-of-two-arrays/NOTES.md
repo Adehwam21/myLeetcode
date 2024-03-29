@@ -1,1 +1,3 @@
-​
+Since we are dealing with concepts relating to sets...
+Its best to convert the lists into sets so that set operations can be applies to it.
+Python gives us that ability to do that.
