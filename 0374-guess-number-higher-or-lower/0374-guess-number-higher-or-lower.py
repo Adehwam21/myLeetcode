@@ -12,9 +12,9 @@ class Solution:
         while True:
             mid = (left + right) // 2
             pick = guess(mid)
-            if pick > 0:
+            if pick == 1:
                 left = mid + 1
-            elif pick < 0:
+            elif pick == -1:
                 right = mid - 1
             else:
                 return mid
