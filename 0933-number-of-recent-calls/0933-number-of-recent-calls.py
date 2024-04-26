@@ -1,19 +1,17 @@
 class RecentCounter:
 
     def __init__(self):
-        self.counter = 0
         self.requests = deque()
+        self.counter = 0
 
     def ping(self, t: int) -> int:
         self.requests.append(t)
         self.counter += 1
         
-        while self.requests and self.requests[0] < t - 3000:
+        while self.requests and self.requests[0] < t-3000:
             self.requests.popleft()
             self.counter -= 1
-            
         return self.counter
-        
         
 
 
