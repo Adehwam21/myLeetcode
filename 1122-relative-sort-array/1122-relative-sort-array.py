@@ -1,9 +1,15 @@
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
-        # Initialize a hashmap to keep track of the occurence of an element in arr1
-        arr1_count_dict = {num: arr1.count(num) for num in arr1}
+        arr1_count_dict = {}
         found, not_found= [], []
-
+        
+        # Initialize a hashmap to keep track of the occurence of an element in arr1
+        for i in arr1:
+            if i not in arr1_count_dict:
+                arr1_count_dict[i] = 1
+            else:
+                arr1_count_dict[i] += 1
+        
         # Check if element in arr2 and arr1
         # If true multiply the element by its occurence and append to the found array
         for i in arr2:
