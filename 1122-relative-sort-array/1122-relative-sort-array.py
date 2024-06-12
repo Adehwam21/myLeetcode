@@ -24,6 +24,4 @@ class Solution:
 
         # Sort the not found array and concatenate with found array
         not_found.sort()
-        result = found + not_found
-
-        return result
+        return found + not_found
