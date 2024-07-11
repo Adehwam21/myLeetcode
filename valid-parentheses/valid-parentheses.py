@@ -12,5 +12,11 @@ class Solution:
                 else:
                     return False
         
-        return not stack # If true, it means all open parentheses were matched correctly because hence poped, otherwise, there is still in invalid sequence so the string will not be a valid parentheses
+        return not stack 
+    
+    '''
+    If stack is empty (not stack), it means all open parentheses were matched correctly, because 
+    correct matches were poped.
+    Otherwise, there is still an invalid sequence so the string won't valid.
+    '''
 
