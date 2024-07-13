@@ -1,14 +1,16 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        i, j = 0, 0
-        result = [0] * len(nums)
+        nums_copy = nums.copy()
+        nums_copy.sort()
+        
+        count_dict = {}
+        
+        for i in range(len(nums_copy)):
+            if nums_copy[i] not in count_dict:
+                count_dict[nums_copy[i]] = nums_copy.index(nums_copy[i])
         
         for i in range(len(nums)):
-            count = 0
-            for j in range(len(nums)):
-                if j != i and nums[j] < nums[i]:
-                    count += 1
-            result[i] = count
-        
-        return result
-    
+            if nums[i] in count_dict:
+                nums[i] = count_dict[nums[i]]
+        return nums
+                    
