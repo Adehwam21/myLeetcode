@@ -6,4 +6,3 @@ class Solution:
             if remaining in seen:
                 return [i, seen[remaining]]
             seen[value] = i
-                    
