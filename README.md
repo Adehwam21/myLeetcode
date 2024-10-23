@@ -14,11 +14,13 @@ All my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -32,4 +34,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
