@@ -7,14 +7,10 @@ class Solution:
         for i in range(0, len(nums)):
             if nums[i] in counts:
                 counts[nums[i]] += 1
+                if counts[nums[i]] > threshold:
+                    return nums[i]
             else:
                 counts[nums[i]] = 1
-
-        val = list(counts.values())
-        elements = list(counts.keys())
-
-        max_count = max(val)
-        if max_count > threshold:
-            majority = val.index(max_count)
-        return elements[majority]
+                if counts[nums[i]] > threshold:
+                    return nums[i]
         
