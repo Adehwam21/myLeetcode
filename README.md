@@ -7,6 +7,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -14,12 +15,14 @@ All my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
@@ -41,4 +44,12 @@ All my leetcode solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
