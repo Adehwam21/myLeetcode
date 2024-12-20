@@ -13,6 +13,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ All my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -37,5 +39,6 @@ All my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
