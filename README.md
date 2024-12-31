@@ -10,6 +10,7 @@ All my leetcode solutions
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+| [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,12 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
