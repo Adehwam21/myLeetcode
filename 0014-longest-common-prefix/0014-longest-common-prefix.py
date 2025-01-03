@@ -14,6 +14,4 @@ class Solution:
             longest_common_prefix += string[i]
         
         return longest_common_prefix
-        
-                
                 
