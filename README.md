@@ -49,6 +49,7 @@ All my leetcode solutions
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +70,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
