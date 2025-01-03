@@ -34,6 +34,7 @@ All my leetcode solutions
 | [0012-integer-to-roman](https://github.com/Adehwam21/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+| [2491-smallest-even-multiple](https://github.com/Adehwam21/myLeetcode/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Adehwam21/myLeetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
