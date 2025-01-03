@@ -47,6 +47,7 @@ All my leetcode solutions
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adehwam21/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -64,4 +65,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
