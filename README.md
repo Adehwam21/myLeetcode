@@ -52,6 +52,7 @@ All my leetcode solutions
 | [0012-integer-to-roman](https://github.com/Adehwam21/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Adehwam21/myLeetcode/tree/master/1970-sorting-the-sentence) |
@@ -79,6 +80,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 ## Number Theory
 |  |
