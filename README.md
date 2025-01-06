@@ -7,6 +7,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ All my leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@ All my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 ## Number Theory
 |  |
