@@ -30,6 +30,7 @@ All my leetcode solutions
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+| [1970-sorting-the-sentence](https://github.com/Adehwam21/myLeetcode/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ All my leetcode solutions
 | [0014-longest-common-prefix](https://github.com/Adehwam21/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/Adehwam21/myLeetcode/tree/master/1970-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
