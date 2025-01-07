@@ -58,6 +58,7 @@ All my leetcode solutions
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0409-longest-palindrome) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Adehwam21/myLeetcode/tree/master/1970-sorting-the-sentence) |
@@ -74,6 +75,7 @@ All my leetcode solutions
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
