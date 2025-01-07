@@ -12,6 +12,7 @@ All my leetcode solutions
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
@@ -74,6 +75,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -112,4 +114,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
