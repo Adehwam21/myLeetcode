@@ -7,6 +7,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ All my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
@@ -91,5 +93,6 @@ All my leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
