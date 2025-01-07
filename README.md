@@ -72,6 +72,7 @@ All my leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -101,4 +102,12 @@ All my leetcode solutions
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
