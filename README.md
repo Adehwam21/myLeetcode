@@ -14,6 +14,7 @@ All my leetcode solutions
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+| [1044-find-common-characters](https://github.com/Adehwam21/myLeetcode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ All my leetcode solutions
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Adehwam21/myLeetcode/tree/master/1044-find-common-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ All my leetcode solutions
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Adehwam21/myLeetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
