@@ -14,6 +14,7 @@ All my leetcode solutions
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Adehwam21/myLeetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/Adehwam21/myLeetcode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
@@ -52,6 +53,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Adehwam21/myLeetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## String
 |  |
 | ------- |
