@@ -68,6 +68,7 @@ All my leetcode solutions
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adehwam21/myLeetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Adehwam21/myLeetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/Adehwam21/myLeetcode/tree/master/1524-string-matching-in-an-array) |
@@ -87,6 +88,7 @@ All my leetcode solutions
 | [0232-implement-queue-using-stacks](https://github.com/Adehwam21/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adehwam21/myLeetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adehwam21/myLeetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -102,6 +104,7 @@ All my leetcode solutions
 | [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 ## Number Theory
 |  |
@@ -128,5 +131,6 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adehwam21/myLeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
