@@ -9,6 +9,7 @@ All my leetcode solutions
 | [0001-two-sum](https://github.com/Adehwam21/myLeetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adehwam21/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Adehwam21/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adehwam21/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ All my leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adehwam21/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -104,6 +106,7 @@ All my leetcode solutions
 | [0011-container-with-most-water](https://github.com/Adehwam21/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Adehwam21/myLeetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Adehwam21/myLeetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adehwam21/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Adehwam21/myLeetcode/tree/master/1894-merge-strings-alternately) |
 ## Number Theory
