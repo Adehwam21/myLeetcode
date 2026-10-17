@@ -48,12 +48,14 @@ All my leetcode solutions
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adehwam21/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Adehwam21/myLeetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adehwam21/myLeetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2491-smallest-even-multiple](https://github.com/Adehwam21/myLeetcode/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Adehwam21/myLeetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adehwam21/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -136,4 +138,8 @@ All my leetcode solutions
 | [0682-baseball-game](https://github.com/Adehwam21/myLeetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Adehwam21/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adehwam21/myLeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Adehwam21/myLeetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
