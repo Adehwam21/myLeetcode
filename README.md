@@ -48,6 +48,7 @@ All my leetcode solutions
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adehwam21/myLeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Adehwam21/myLeetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Adehwam21/myLeetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Adehwam21/myLeetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Adehwam21/myLeetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adehwam21/myLeetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -142,4 +143,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adehwam21/myLeetcode/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Adehwam21/myLeetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
